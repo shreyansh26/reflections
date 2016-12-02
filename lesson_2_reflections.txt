@@ -5,3 +5,16 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 -- It provides a platform to us to put our files in the repositorry not as a whole but as many as we want at a time. A working directory is the one from which files will be transferred to the repository and the "repository" is the current repository. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+--When we want to experiment something new, but are afraid it may cuse a problem to the current file. Like while working on a game pdate or making the language change.
+
+How do the diagrams help you visualize the branch structure?
+
+--It gives the structure of various branches, how they are linked and the entire network.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+--Automatic is good when no ambiguity is encountered but manual is important if git runs into a confusion whether or not include both the old and new changes into the merged file(when they are similar).
+
