@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+--An empty repository is created with no previous commits and no files in it too. We can add files to it and make commits, and start working on it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+-- It provides a platform to us to put our files in the repositorry not as a whole but as many as we want at a time. A working directory is the one from which files will be transferred to the repository and the "repository" is the current repository. 
