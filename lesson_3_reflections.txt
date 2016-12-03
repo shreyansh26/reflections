@@ -14,3 +14,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 --It would definitely be harder, because GitHub and Git are specially made for this purpose alone. Google Drive and Dropbox are personal one cannot collaborate with others on it because it would include sharing passwords and lack of privacy.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+--It gives us an oppurtunity to experiment and that we can let other people (collaborators) see and verify the code first before we include them in master. It is also used when we have to work on something totally different than th topic and may be required to merge later.
