@@ -10,3 +10,7 @@ Why might you want to always pull changes manually rather than having Git automa
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 --It helps us to understand the map better and we can know when to merge two things and where it will it be merged , whether it will be a fast merge or not, etc.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+--It would definitely be harder, because GitHub and Git are specially made for this purpose alone. Google Drive and Dropbox are personal one cannot collaborate with others on it because it would include sharing passwords and lack of privacy.
